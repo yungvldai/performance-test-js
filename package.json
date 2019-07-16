@@ -1,0 +1,19 @@
+{
+  "name": "performance-test",
+  "version": "1.0.0",
+  "description": "special tool for performance testing",
+  "main": "ptest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yungvldai/performance-test-js.git"
+  },
+  "author": "Vlad Ivanov",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/yungvldai/performance-test-js/issues"
+  },
+  "homepage": "https://github.com/yungvldai/performance-test-js#readme"
+}
