@@ -9,7 +9,7 @@ _start('Вход в систему', 'id_to_stop');
 _stop('id_to_stop');
 ```
 
-`_start()` and `_stop()` methods are *global*.
+`_start()` and `_stop()` methods are **global**.
 
 #### Example
 ![](https://github.com/yungvldai/performance-test-js/blob/master/example.jpg)
